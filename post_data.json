@@ -1,0 +1,102 @@
+[
+  {
+    "id": "ed1a2808-b8b3-4a3f-a04d-7cb8ed026478",
+    "created_at": "2024-10-28T09:13:36.533262Z",
+    "updated_at": "2024-10-28T09:13:36.533262Z",
+    "title": "The Zen of Proverbs",
+    "description": "20 rules of thumb for writing better software.\nOptimize for simplicity first Write code for humans, not computers Reading is more important than writing Any style is fine, as long as it&rsquo;s black There should be one way to do it, but seriously this time Hide the sharp knives Changing the rules is better than adding exceptions Libraries are better than frameworks Transitive dependencies are a problem Dynamic runtime dependencies are a bigger problem API surface area is a liability Returning early is a good thing Use more plain text Compiler errors are better than runtime errors Runtime errors are better than bugs Tooling is better than documentation Documentation is better than nothing Configuration sucks, but so does convention The cost of building a feature is its smallest cost Types are one honking great idea &ndash; let&rsquo;s do more of those!",
+    "published_at": "2023-01-08T00:00:00Z",
+    "url": "https://wagslane.dev/posts/zen-of-proverbs/",
+    "feed_id": "e1592382-7b3f-4900-af83-e7dc9aaf49d3"
+  },
+  {
+    "id": "60be9547-5913-4021-8171-9995b30b0914",
+    "created_at": "2024-10-28T09:13:27.243918Z",
+    "updated_at": "2024-10-28T09:13:27.243918Z",
+    "title": "The Zen of Proverbs",
+    "description": "20 rules of thumb for writing better software.\nOptimize for simplicity first Write code for humans, not computers Reading is more important than writing Any style is fine, as long as it&rsquo;s black There should be one way to do it, but seriously this time Hide the sharp knives Changing the rules is better than adding exceptions Libraries are better than frameworks Transitive dependencies are a problem Dynamic runtime dependencies are a bigger problem API surface area is a liability Returning early is a good thing Use more plain text Compiler errors are better than runtime errors Runtime errors are better than bugs Tooling is better than documentation Documentation is better than nothing Configuration sucks, but so does convention The cost of building a feature is its smallest cost Types are one honking great idea &ndash; let&rsquo;s do more of those!",
+    "published_at": "2023-01-08T00:00:00Z",
+    "url": "",
+    "feed_id": "e1592382-7b3f-4900-af83-e7dc9aaf49d3"
+  },
+  {
+    "id": "4b19420e-a9e2-449a-bce6-c3ab5bdcbd15",
+    "created_at": "2024-10-28T09:13:36.540026Z",
+    "updated_at": "2024-10-28T09:13:36.540027Z",
+    "title": "College: A Solution in Search of a Problem",
+    "description": "College has been prescribed almost universally by the parents of the last ~40 years as the solution to life&rsquo;s problems. We&rsquo;ve been told it&rsquo;s the way to land a good job and to make more money. But is it?\nI think that most college degrees these days commit a cardinal sin in the business world. College degrees are solutions in search of a problem.\nWhat is a solution in search of a problem?",
+    "published_at": "2022-12-17T00:00:00Z",
+    "url": "https://wagslane.dev/posts/college-a-solution-in-search-of-a-problem/",
+    "feed_id": "e1592382-7b3f-4900-af83-e7dc9aaf49d3"
+  },
+  {
+    "id": "c988688a-a8a6-414e-9520-295ce500ccc5",
+    "created_at": "2024-10-28T09:13:36.542697Z",
+    "updated_at": "2024-10-28T09:13:36.542697Z",
+    "title": "Thoughts on the \"Guard\" Proposal for Go's Error Handling",
+    "description": "I found this proposal for improvements to error handling in Go interesting, but still not something I&rsquo;d be happy to see implemented.\nAllow me to clear up my thoughts on Go&rsquo;s errors. Overall, I prefer how Go forces me to think about errors at every turn. When working in try/catch languages like JavaScript, I often easily forget which functions can throw. Even if I do remember, it&rsquo;s easy to think &ldquo;I think this gets caught somewhere up the call chain&rdquo;.",
+    "published_at": "2022-11-05T00:00:00Z",
+    "url": "https://wagslane.dev/posts/guard-keyword-error-handling-golang/",
+    "feed_id": "e1592382-7b3f-4900-af83-e7dc9aaf49d3"
+  },
+  {
+    "id": "922e7045-2889-4b7a-ac94-9e7f1c27519d",
+    "created_at": "2024-10-28T09:13:36.545296Z",
+    "updated_at": "2024-10-28T09:13:36.545296Z",
+    "title": "Devops: An Idea so Good, No One Admits They Don’t Do It",
+    "description": "The ideas behind the DevOps movements undeniably changed the software development world for the better - but by now, the term &ldquo;DevOps&rdquo; has lost all meaning.\nSometimes an idea is so good, that you can’t argue with it. I’m not saying that the original idea behind &ldquo;DevOps&rdquo; was perfect - I’ve written about some of the specific issues I&rsquo;ve seen. That said, I think there is enough data and research behind the core ideas by now that there are very few companies willing to admit they don’t &ldquo;do DevOps&rdquo;.",
+    "published_at": "2022-08-29T00:00:00Z",
+    "url": "https://wagslane.dev/posts/no-one-does-devops/",
+    "feed_id": "e1592382-7b3f-4900-af83-e7dc9aaf49d3"
+  },
+  {
+    "id": "f538d917-61bf-4b7a-84a9-30d9f4ee9b3b",
+    "created_at": "2024-10-28T09:13:36.546745Z",
+    "updated_at": "2024-10-28T09:13:36.546745Z",
+    "title": "Learn to Say 'No'",
+    "description": "Saying &ldquo;no&rdquo; is a hard skill to learn. It&rsquo;s even harder if you tend to be a more introverted person. However, learning how to say &ldquo;no&rdquo; effectively can help your career. I certainly have struggled over the years with saying &ldquo;no&rdquo; as a programmer, after all, wouldn&rsquo;t a good programmertm be able to do anything?\nLet&rsquo;s look at some example scenarios where perhaps you should be saying &ldquo;no&rdquo; more often.",
+    "published_at": "2022-06-27T00:00:00Z",
+    "url": "https://wagslane.dev/posts/developers-learn-to-say-no/",
+    "feed_id": "e1592382-7b3f-4900-af83-e7dc9aaf49d3"
+  },
+  {
+    "id": "11b6f561-06b6-458e-9824-e2bbce2fe505",
+    "created_at": "2024-10-28T09:13:36.547899Z",
+    "updated_at": "2024-10-28T09:13:36.5479Z",
+    "title": "Businesses that Use Dark Patterns Deserve to Go Under",
+    "description": "What is a dark pattern? Last night I switched away from Verizon as my cell phone provider. The process of wrestling my phone number out of their grubby clutches and into control of my new carrier had me raving like a madman by the end of the night. I had a similar experience when trying to quit my local Vasa gym. While I&rsquo;m sure you&rsquo;re familiar with an unnecessarily difficult cancellation process, this might be the first time you&rsquo;ve heard it referred to as a &ldquo;dark pattern&rdquo;.",
+    "published_at": "2022-06-17T00:00:00Z",
+    "url": "https://wagslane.dev/posts/dark-patterns/",
+    "feed_id": "e1592382-7b3f-4900-af83-e7dc9aaf49d3"
+  },
+  {
+    "id": "8cfa2a4c-1840-4cd3-940f-b1b0c9032ab5",
+    "created_at": "2024-10-28T09:13:36.54952Z",
+    "updated_at": "2024-10-28T09:13:36.54952Z",
+    "title": "Func-y JSON, an alternative to REST",
+    "description": "It&rsquo;s insane to me that almost every web developer in the world is working with web APIs, and yet the developer experience remains atrocious. Most applications I&rsquo;ve worked on have a RESTful scheme, a GraphQL implementation, or a more strict gRPC system. I&rsquo;ve used REST for the most part, probably just because it&rsquo;s what I&rsquo;m familiar with, but I hate it. Every time I design a new API I can&rsquo;t help but think that it shouldn&rsquo;t be so hard to come up with a sane way to communicate between the server and the client.",
+    "published_at": "2022-05-17T00:00:00Z",
+    "url": "https://wagslane.dev/posts/func-y-json-api/",
+    "feed_id": "e1592382-7b3f-4900-af83-e7dc9aaf49d3"
+  },
+  {
+    "id": "94306cbe-17c0-47f6-88e0-30f77457474e",
+    "created_at": "2024-10-28T09:13:36.550905Z",
+    "updated_at": "2024-10-28T09:13:36.550905Z",
+    "title": "SEO is One Giant Scam of a Job",
+    "description": "I&rsquo;ve been writing online for about 4 years now, and I&rsquo;ve learned a bit about &ldquo;SEO&rdquo; - this blog and my side project&rsquo;s blog (my side project being Boot.dev) now have combined traffic of about 100k visits each month. I&rsquo;m sure there are a lot of people out there who know a lot more about growing relevant organic traffic for businesses than I do, but I&rsquo;ve become convinced of something that I&rsquo;d like to run by you.",
+    "published_at": "2022-05-09T00:00:00Z",
+    "url": "https://wagslane.dev/posts/seo-is-a-scam-job/",
+    "feed_id": "e1592382-7b3f-4900-af83-e7dc9aaf49d3"
+  },
+  {
+    "id": "e1a0a316-b414-40b5-89a2-b3f8e177651a",
+    "created_at": "2024-10-28T09:13:36.552066Z",
+    "updated_at": "2024-10-28T09:13:36.552066Z",
+    "title": "Things I don't want to do to grow my side project",
+    "description": "Working on a side project that aspires to be a real business has its ups and downs, especially after you&rsquo;ve been at it for over 2 years. I&rsquo;ve been hacking away at Boot.dev since March 2020, and for the most part, it&rsquo;s been a ton of fun. However, at the end of the day, if you want your project to earn you enough cash that you can quit your day job, you have to work on some things that are less fun.",
+    "published_at": "2022-05-01T00:00:00Z",
+    "url": "https://wagslane.dev/posts/things-i-dont-want-to-do-to-grow-business/",
+    "feed_id": "e1592382-7b3f-4900-af83-e7dc9aaf49d3"
+  }
+]
